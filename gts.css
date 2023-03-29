@@ -1,0 +1,56 @@
+
+.resim{
+    height: 100px;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.ortanca{
+    background-color:darkgray;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 1px;
+
+    text-align: center;
+   
+}
+
+.box1{
+    background-color: aqua;
+    
+    height: 80px;
+    width: 500px;
+    margin-left: 4%;
+    
+    float: left;
+    
+    text-align: center;
+}
+.box2{
+    background-color: aquamarine;
+    height: 80px;
+    width: 350px;
+    margin-left: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+    
+    float: left;
+    text-align: center;
+}
+
+.box3{
+    background-color: cadetblue;
+    height: 80px;
+    width: 500px;
+    margin-left: 10px;
+    float: left;
+    
+    
+    
+    text-align: center;
+}
+
+   
